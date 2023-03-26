@@ -9,7 +9,7 @@ namespace Calculator
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Calculator!, build using github co-pilot");
+            Console.WriteLine("Hello Calculator!, built using github co-pilot");
 
             var calculator = new Calculator.Domain.Calculator();
             Console.WriteLine("Lets add 1 and 2");
